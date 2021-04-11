@@ -15,4 +15,7 @@ zapytać pani agaty o akademię cisco, teraz zaczyna się kolejny semestr
 
 ## Zjazd 2 - 21.03.2021
 
-## Zjazd 3 - 
+## Zjazd 3 - 11.04.2021
+Rozszerzony spis treści do zrobienia na następne zajęcia (do środy 21.04.2021)  
+Przykładowe spisy treści umieszczone na EDUXie:  
+"Sugestie pomocne w zaplanowaniu zawartości pracy"  
