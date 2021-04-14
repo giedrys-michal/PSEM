@@ -18,4 +18,24 @@ zapytać pani agaty o akademię cisco, teraz zaczyna się kolejny semestr
 ## Zjazd 3 - 11.04.2021
 Rozszerzony spis treści do zrobienia na następne zajęcia (do środy 21.04.2021)  
 Przykładowe spisy treści umieszczone na EDUXie:  
-"Sugestie pomocne w zaplanowaniu zawartości pracy"  
+"Sugestie pomocne w zaplanowaniu zawartości pracy"
+
+## Prezentacja nr.1
+Przenieść ogólnikowo opisane role na początek prezentacji  
+"Metody dobrego programowania" - rozdział 10 Wiszniewski  
+Dodać diagram funkcjonalności  
+Dodać testy sprawdzające poprawność wprowadzonych konfiguracji  
+W realizacji pracy dołożyć podpunkt o integrację przyrostów i implementacji z poprzednich  
+Rozdielić postęp prac:
+- początkowe zgrubne
+- uszczegóławianie w ramach kolejnych przyrostów
+
+> role - Paweł sieciowiec,programista , Michał - frontendowiec
+> metody wytwarzania oprogramowania - rozdział 10
+> integracja i testy integracyjne
+> ewolucyjno - przyrostowy
+> spójność dokumentacji, najpierw zgrubne określenie, potem doszczegóławianie
+> sposób walidacji
+> zarządzanie zadaniami - JIRA
+> protokół TCP/IP
+ 
