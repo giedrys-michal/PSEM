@@ -38,4 +38,12 @@ Rozdielić postęp prac:
 > sposób walidacji
 > zarządzanie zadaniami - JIRA
 > protokół TCP/IP
- 
+
+## Zjazd 5 - 25.04.2021
+Pierwsza strona powinna zawierać kilka zdań streszczenia  
+Słownik:
+doprecyzować pojęcia dziedzinowe, powinny być precyzyjnie określone  
+
+Ritch picture - obrazowanie sytuacji problemowej, problemu, to co chcemy naszym produktem rozwiązać  
+
+jednostkowe, integracyjne, systemowe/walidacyjne (funkcjonalności)  
