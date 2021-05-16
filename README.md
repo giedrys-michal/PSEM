@@ -47,3 +47,17 @@ doprecyzować pojęcia dziedzinowe, powinny być precyzyjnie określone
 Ritch picture - obrazowanie sytuacji problemowej, problemu, to co chcemy naszym produktem rozwiązać  
 
 jednostkowe, integracyjne, systemowe/walidacyjne (funkcjonalności)  
+
+## Zjazd 6 - 16.05.2021
+Na następne zajęcia przygotować pokaz naszego produktu  
+Prezentacja zbliżona do 15 min tego co ma być na obronie:  
+- W kilku punktach opisać co będzie prezentowane na obronie
+- Główne funkcje oprogramowania
+- Dane wejściowe, opowiedzieć jak są po drodze modyfikowane
+
+Uwagi do pracy:
+- wstęp jest wprowadzeniem do pracy
+- wprowadzenie w problem powinno być w osobnym podpunkcie
+- organizacja pracy w zespole powinna być po opisaniu wybranej strategii prowadzenia projektu
+
+## Zjazd 7 - 30.05.2021
